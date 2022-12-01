@@ -1,0 +1,74 @@
+.bump-card-feature-card {
+  width: 366px;
+  margin: var(--dl-space-space-threeunits);
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  flex-wrap: wrap;
+  border-color: #27A1FF;
+  border-style: solid;
+  border-width: 3px;
+  flex-direction: column;
+  background-color: #1e1e2c;
+}
+.bump-card-text {
+  color: var(--dl-color-gray-700);
+  align-self: center;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.bump-card-image {
+  width: 100px;
+  align-self: center;
+  object-fit: cover;
+  border-radius: 16px;
+}
+.bump-card-container {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+}
+.bump-card-badge {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.bump-card-text1 {
+  color: var(--dl-color-gray-white);
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-weight: 500;
+}
+.bump-card-image1 {
+  width: 35px;
+  height: 35px;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  object-fit: cover;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.bump-card-text2 {
+  margin-bottom: var(--dl-space-space-unit);
+  color: var(--dl-color-gray-900);
+  text-align: center;
+}
+.bump-card-root-class-name5 {
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+
+
+
+
+
+
+
+
+
+
+
+
